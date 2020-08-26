@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+        app:
+            environment:
+             - DB_HOST=database-smactech-dev.cs5xs1zutkf4.sa-east-1.rds.amazonaws.com
+             - DB_USER=cassielrattes
+             - DB_PASS=05102002Cassiel19997182002
+             - DB_DATA=innoquotas
+            build: .
+            ports:
+             - "5000:5000"
+            command: yarn dev
+            volumes:
+             - .:/usr/app

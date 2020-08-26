@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675676681739",
+    "firebase_url": "https://fiec-2020.firebaseio.com",
+    "project_id": "fiec-2020",
+    "storage_bucket": "fiec-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675676681739:android:6ff80a1b0daf0b6cbf790e",
+        "android_client_info": {
+          "package_name": "com.company.innoquotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675676681739-upjlv4gufi459dqb8ue163vj9ap0423m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVNvFgv-4lX4jY8T4dJnMWvb73vG-C50k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675676681739-upjlv4gufi459dqb8ue163vj9ap0423m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
